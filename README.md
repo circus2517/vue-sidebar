@@ -5,3 +5,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+
+用vue3 vite實作 sidebar側欄設計  https://circus2517.github.io/vue-sidebar/
