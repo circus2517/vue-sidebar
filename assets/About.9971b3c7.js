@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,a as e}from"./index.368afadc.js";const a={},c={class:"about-page"},_=e("h1",null,"About",-1),n=e("p",null,"This is the about page",-1),r=[_,n];function i(l,u){return o(),s("main",c,r)}var h=t(a,[["render",i]]);export{h as default};
